@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**ndinata/ndinata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Nico and I'm a mobile app dev who've worked primarily with React Native + TypeScript, Nextjs (Reactjs), and Flask (Python).
+
+The repos you see here will be a mix of:
+- archived uni assignments showcasing the different things I've been exposed to,
+- side projects to keep my skills sharp, and
+- experiments to explore interesting areas, such as static analysis of programs
+
+I'm also currently trying to be more proficient in Rust and Swift because they're cool languages and I wanna be able to create cool things with them someday 🌱
