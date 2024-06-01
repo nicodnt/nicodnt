@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi 👋
 
-I'm Nico; i'm a software engineer with experience working with React Native, Nextjs,
-and Flask (Python).
+I'm Nico; i'm a software engineer with experience working with React Native,
+Nextjs, and Flask (Python).
 
-The repos that you'll find here are mostly side projects to help me hone my skills
-and pursue interests, which currently include building various things with Typescript
-and Rust 🌱
+The repos you'll find here are mostly React[Native]-adjacent side projects and experiments with Rust.
+
+You can find other projects I did at uni, which cover a broad range of topics,
+[here](https://github.com/nicoatuni).
